@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BRON-CRM</string>
+    <string name="hello_world_page">Hello World!</string>
+    <string name="calculator_heading">Welcome to calculator</string>
+    <string name="enter_a_number_calculator">Enter a number</string>
+    <string name="open_calculator">Open Calculator PW1</string>
+    <string name="open_pw2">PW2\n</string>
+
+</resources>

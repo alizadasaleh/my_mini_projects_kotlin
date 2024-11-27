@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BRON-CRM</string>
+    <string name="hello_world_page">Привет Мир!</string>
+</resources>
